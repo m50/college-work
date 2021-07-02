@@ -1,0 +1,2 @@
+hw07: hw07.cpp wheel.cpp car.cpp engine.cpp
+	g++ hw07.cpp wheel.cpp car.cpp engine.cpp -o program -std=gnu++0x

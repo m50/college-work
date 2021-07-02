@@ -1,0 +1,339 @@
+Country or Area	Period	% change
+Albania, 1990-2007	5.20%
+Albania, 1970-1990	-0.70%
+Algeria, 1990-2007	1.40%
+Algeria, 1970-1990	1.60%
+Angola, 1990-2007	2.90%
+Angola, 1970-1990	0.40%
+Antigua and Barbuda, 1990-2007	1.70%
+Antigua and Barbuda, 1970-1990	8.30%
+Argentina, 1990-2007	1.50%
+Argentina, 1970-1990	-0.70%
+Armenia, 1990-2007	5.80%
+Australia, 1990-2007	2.40%
+Australia, 1970-1990	1.50%
+Austria, 1990-2007	1.80%
+Austria, 1970-1990	2.40%
+Azerbaijan, 1990-2007	2.80%
+Bahamas, 1990-2007	0.40%
+Bahamas, 1970-1990	1.80%
+Bahrain, 1990-2007	2.40%
+Bahrain, 1970-1990	-1.30%
+Bangladesh, 1990-2007	3.10%
+Bangladesh, 1970-1990	0.60%
+Barbados, 1990-2007	1.30%
+Barbados, 1970-1990	1.50%
+Belarus, 1990-2007	3.40%
+Belgium, 1990-2007	1.80%
+Belgium, 1970-1990	2.20%
+Belize, 1990-2007	2.40%
+Belize, 1970-1990	2.90%
+Benin, 1990-2007	1.30%
+Benin, 1970-1990	0.00%
+Bhutan, 1990-2007	5.20%
+Bhutan, 1970-1990	6.80%
+Bolivia, 1990-2007	1.30%
+Bolivia, 1970-1990	-1.10%
+Bosnia and Herzegovina, 1990-2007	10.80%
+Botswana, 1990-2007	4.20%
+Botswana, 1970-1990	8.20%
+Brazil, 1990-2007	1.20%
+Brazil, 1970-1990	2.30%
+Brunei, 1990-2007	-0.30%
+Brunei, 1970-1990	-2.20%
+Bulgaria, 1990-2007	2.30%
+Bulgaria, 1970-1990	3.40%
+Burkina Faso, 1990-2007	2.50%
+Burkina Faso, 1970-1990	1.30%
+Burundi, 1990-2007	-2.70%
+Burundi, 1970-1990	1.10%
+Cambodia, 1990-2007	6.20%
+Cameroon, 1990-2007	0.60%
+Cameroon, 1970-1990	3.30%
+Canada, 1990-2007	2.20%
+Canada, 1970-1990	2.00%
+Cape Verde, 1990-2007	3.30%
+CEE/CIS and Baltic States, 1990-2007	1.60%
+Central African Republic, 1990-2007	-0.80%
+Central African Republic, 1970-1990	-1.30%
+Chad, 1990-2007	2.40%
+Chad, 1970-1990	-1.00%
+Chile, 1990-2007	3.70%
+Chile, 1970-1990	1.50%
+China, 1990-2007	8.90%
+China, 1970-1990	6.60%
+Colombia, 1990-2007	1.00%
+Colombia, 1970-1990	2.00%
+Comoros, 1990-2007	-0.40%
+Comoros, 1970-1990	0.10%
+Congo, 1990-2007	-0.20%
+Congo, 1970-1990	3.20%
+Congo Dem. Rep., 1990-2007	-4.30%
+Congo Dem. Rep., 1970-1990	-2.40%
+Costa Rica, 1990-2007	2.50%
+Costa Rica, 1970-1990	0.70%
+Côte d’Ivoire, 1990-2007	-0.70%
+Côte d’Ivoire, 1970-1990	-1.90%
+Croatia, 1990-2007	3.00%
+Cuba, 1990-2007	3.60%
+Cyprus, 1990-2007	2.20%
+Cyprus, 1970-1990	5.90%
+Czech Republic, 1990-2007	2.40%
+Denmark, 1990-2007	1.90%
+Denmark, 1970-1990	2.00%
+Developing countries, 1990-2007	4.00%
+Developing countries, 1970-1990	2.40%
+Djibouti, 1990-2007	-2.10%
+Dominica, 1990-2007	2.40%
+Dominica, 1970-1990	4.70%
+Dominican Republic, 1990-2007	3.80%
+Dominican Republic, 1970-1990	2.10%
+East Asia and Pacific, 1990-2007	6.80%
+East Asia and Pacific, 1970-1990	5.70%
+Eastern and Southern Africa, 1990-2007	1.40%
+Ecuador, 1990-2007	1.20%
+Ecuador, 1970-1990	1.30%
+Egypt, 1990-2007	2.50%
+Egypt, 1970-1990	4.30%
+El Salvador, 1990-2007	1.80%
+El Salvador, 1970-1990	-1.80%
+Equatorial Guinea, 1990-2007	21.10%
+Eritrea, 1990-2007	-0.30%
+Estonia, 1990-2007	5.20%
+Estonia, 1970-1990	1.50%
+Ethiopia, 1990-2007	2.20%
+Federated States of Micronesia, 1990-2007	-0.20%
+Fiji, 1990-2007	1.50%
+Fiji, 1970-1990	0.60%
+Finland, 1990-2007	2.80%
+Finland, 1970-1990	2.80%
+France, 1990-2007	1.60%
+France, 1970-1990	2.20%
+Gabon, 1990-2007	-0.70%
+Gabon, 1970-1990	0.30%
+Gambia The, 1990-2007	0.20%
+Gambia The, 1970-1990	0.90%
+Georgia, 1990-2007	1.80%
+Georgia, 1970-1990	3.20%
+Germany, 1990-2007	1.40%
+Germany, 1970-1990	2.30%
+Ghana, 1990-2007	2.10%
+Ghana, 1970-1990	-2.10%
+Greece, 1990-2007	2.70%
+Greece, 1970-1990	1.30%
+Grenada, 1990-2007	2.50%
+Grenada, 1970-1990	4.90%
+Guatemala, 1990-2007	1.40%
+Guatemala, 1970-1990	0.20%
+Guinea, 1990-2007	1.30%
+Guinea, 1970-1990	0.30%
+Guinea-Bissau, 1990-2007	-2.60%
+Guinea-Bissau, 1970-1990	-0.20%
+Guyana, 1990-2007	3.10%
+Guyana, 1970-1990	-1.50%
+Haiti, 1990-2007	-2.10%
+Haiti, 1970-1990	-0.30%
+Honduras, 1990-2007	1.50%
+Honduras, 1970-1990	0.80%
+Hungary, 1990-2007	3.30%
+Hungary, 1970-1990	3.00%
+Iceland, 1990-2007	2.40%
+Iceland, 1970-1990	3.20%
+India, 1990-2007	4.50%
+India, 1970-1990	2.10%
+Indonesia, 1990-2007	2.30%
+Indonesia, 1970-1990	4.70%
+Industrialized countries, 1990-2007	1.90%
+Industrialized countries, 1970-1990	2.30%
+Iran, 1990-2007	2.50%
+Iran, 1970-1990	-2.30%
+Ireland, 1990-2007	5.80%
+Ireland, 1970-1990	2.80%
+Israel, 1990-2007	1.70%
+Israel, 1970-1990	1.90%
+Italy, 1990-2007	1.20%
+Italy, 1970-1990	2.80%
+Jamaica, 1990-2007	0.80%
+Jamaica, 1970-1990	-1.30%
+Japan, 1990-2007	0.90%
+Japan, 1970-1990	3.00%
+Jordan, 1990-2007	2.00%
+Jordan, 1970-1990	2.50%
+Kazakhstan, 1990-2007	3.20%
+Kenya, 1990-2007	0.00%
+Kenya, 1970-1990	1.20%
+Kiribati, 1990-2007	1.80%
+Kiribati, 1970-1990	-5.30%
+Korea Rep, 1990-2007	4.40%
+Korea Rep, 1970-1990	6.20%
+Kuwait, 1990-2007	1.10%
+Kuwait, 1970-1990	-6.80%
+Kyrgyzstan, 1990-2007	-0.50%
+Lao PDR, 1990-2007	4.20%
+Latin America and Caribbean, 1990-2007	1.50%
+Latin America and Caribbean, 1970-1990	1.40%
+Latvia, 1990-2007	4.70%
+Latvia, 1970-1990	3.40%
+Least developed countries, 1990-2007	2.50%
+Least developed countries, 1970-1990	-0.20%
+Lebanon, 1990-2007	2.50%
+Lesotho, 1990-2007	1.80%
+Lesotho, 1970-1990	3.10%
+Liberia, 1990-2007	1.90%
+Liberia, 1970-1990	-4.20%
+Libya, 1970-1990	-4.90%
+Lithuania, 1990-2007	3.00%
+Luxembourg, 1990-2007	3.20%
+Luxembourg, 1970-1990	2.70%
+Macedonia, 1990-2007	0.50%
+Madagascar, 1990-2007	-0.40%
+Madagascar, 1970-1990	-2.40%
+Malawi, 1990-2007	0.30%
+Malawi, 1970-1990	-0.10%
+Malaysia, 1990-2007	3.20%
+Malaysia, 1970-1990	4.00%
+Maldives, 1990-2007	5.50%
+Mali, 1990-2007	2.20%
+Mali, 1970-1990	-0.30%
+Malta, 1990-2007	2.70%
+Malta, 1970-1990	6.50%
+Marshall Islands, 1990-2007	-2.00%
+Mauritania, 1990-2007	0.60%
+Mauritania, 1970-1990	-0.90%
+Mauritius, 1990-2007	3.70%
+Mauritius, 1970-1990	5.10%
+Mexico, 1990-2007	1.60%
+Mexico, 1970-1990	1.60%
+Middle East and North Africa, 1990-2007	1.60%
+Middle East and North Africa, 1970-1990	-0.10%
+Mongolia, 1990-2007	2.20%
+Montenegro, 1990-2007	3.40%
+Morocco, 1990-2007	2.00%
+Morocco, 1970-1990	2.00%
+Mozambique, 1990-2007	4.10%
+Mozambique, 1970-1990	-1.00%
+Myanmar, 1990-2007	6.80%
+Myanmar, 1970-1990	1.50%
+Namibia, 1990-2007	1.80%
+Namibia, 1970-1990	-2.30%
+Nepal, 1990-2007	1.90%
+Nepal, 1970-1990	1.20%
+Netherlands, 1990-2007	2.10%
+Netherlands, 1970-1990	1.50%
+New Zealand, 1990-2007	2.00%
+New Zealand, 1970-1990	0.80%
+Nicaragua, 1990-2007	1.90%
+Nicaragua, 1970-1990	-3.70%
+Niger, 1990-2007	-0.60%
+Niger, 1970-1990	-2.20%
+Nigeria, 1990-2007	1.20%
+Nigeria, 1970-1990	-1.40%
+Norway, 1990-2007	2.60%
+Norway, 1970-1990	3.20%
+Oman, 1990-2007	2.20%
+Oman, 1970-1990	3.30%
+Pakistan, 1990-2007	1.60%
+Pakistan, 1970-1990	3.00%
+Palestinian Territory (Occupied), 1990-2007	-2.90%
+Panama, 1990-2007	2.60%
+Panama, 1970-1990	0.30%
+Papua New Guinea, 1990-2007	-0.60%
+Papua New Guinea, 1970-1990	-0.70%
+Paraguay, 1990-2007	-0.30%
+Paraguay, 1970-1990	2.80%
+Peru, 1990-2007	2.70%
+Peru, 1970-1990	-0.60%
+Philippines, 1990-2007	1.70%
+Philippines, 1970-1990	0.80%
+Poland, 1990-2007	4.40%
+Portugal, 1990-2007	1.90%
+Portugal, 1970-1990	2.60%
+Republic of Moldova, 1990-2007	-1.30%
+Republic of Moldova, 1970-1990	1.80%
+Romania, 1990-2007	2.30%
+Romania, 1970-1990	0.90%
+Russian Federation, 1990-2007	1.20%
+Rwanda, 1990-2007	1.10%
+Rwanda, 1970-1990	1.10%
+Saint Kitts and Nevis, 1990-2007	2.80%
+Saint Kitts and Nevis, 1970-1990	6.30%
+Saint Lucia, 1990-2007	1.30%
+Saint Lucia, 1970-1990	5.30%
+Samoa, 1990-2007	2.60%
+Saudi Arabia, 1990-2007	0.30%
+Saudi Arabia, 1970-1990	-1.50%
+Senegal, 1990-2007	1.10%
+Senegal, 1970-1990	-0.70%
+Serbia, 1990-2007	2.60%
+Seychelles, 1990-2007	1.40%
+Seychelles, 1970-1990	2.90%
+Sierra Leone, 1990-2007	-0.40%
+Sierra Leone, 1970-1990	-0.40%
+Singapore, 1990-2007	3.80%
+Singapore, 1970-1990	5.60%
+Slovakia, 1990-2007	3.30%
+Slovenia, 1990-2007	3.50%
+Solomon Islands, 1990-2007	-1.60%
+Solomon Islands, 1970-1990	3.40%
+Somalia, 1970-1990	-0.90%
+South Africa, 1990-2007	1.00%
+South Africa, 1970-1990	0.10%
+South Asia, 1990-2007	4.10%
+South Asia, 1970-1990	2.10%
+Spain, 1990-2007	2.40%
+Spain, 1970-1990	1.90%
+Sri Lanka, 1990-2007	3.90%
+Sri Lanka, 1970-1990	3.00%
+St Vincent and the Grenadines, 1990-2007	3.00%
+St Vincent and the Grenadines, 1970-1990	3.30%
+Sub-Saharan Africa, 1990-2007	1.30%
+Sub-Saharan Africa, 1970-1990	-0.10%
+Sudan, 1990-2007	3.60%
+Sudan, 1970-1990	0.10%
+Suriname, 1990-2007	1.80%
+Suriname, 1970-1990	-2.40%
+Swaziland, 1990-2007	-0.30%
+Swaziland, 1970-1990	3.10%
+Sweden, 1990-2007	2.20%
+Sweden, 1970-1990	1.80%
+Switzerland, 1990-2007	0.70%
+Switzerland, 1970-1990	1.20%
+Syria, 1990-2007	1.50%
+Syria, 1970-1990	2.00%
+Tajikistan, 1990-2007	-2.20%
+Tanzania, 1990-2007	1.80%
+Thailand, 1990-2007	2.90%
+Thailand, 1970-1990	5.00%
+Togo, 1990-2007	-0.20%
+Togo, 1970-1990	-0.60%
+Tonga, 1990-2007	2.00%
+Trinidad and Tobago, 1990-2007	5.10%
+Trinidad and Tobago, 1970-1990	0.50%
+Tunisia, 1990-2007	3.40%
+Tunisia, 1970-1990	2.50%
+Turkey, 1990-2007	2.20%
+Turkey, 1970-1990	1.90%
+Turkmenistan, 1990-2007	-6.80%
+Uganda, 1990-2007	3.10%
+Ukraine, 1990-2007	-0.70%
+United Arab Emirates, 1990-2007	-0.30%
+United Arab Emirates, 1970-1990	-4.80%
+United Kingdom, 1990-2007	2.40%
+United Kingdom, 1970-1990	2.00%
+United States of America, 1990-2007	2.00%
+United States of America, 1970-1990	2.20%
+Uruguay, 1990-2007	1.50%
+Uruguay, 1970-1990	0.90%
+Uzbekistan, 1990-2007	1.20%
+Vanuatu, 1990-2007	-0.40%
+Vanuatu, 1970-1990	1.10%
+Venezuela, 1990-2007	-0.20%
+Venezuela, 1970-1990	-1.60%
+Vietnam, 1990-2007	6.00%
+Western and Central Africa, 1990-2007	1.30%
+Western and Central Africa, 1970-1990	-0.60%
+Yemen, 1990-2007	1.60%
+Zambia, 1990-2007	0.10%
+Zambia, 1970-1990	-2.30%
+Zimbabwe, 1990-2007	-2.10%
+Zimbabwe, 1970-1990	-0.40%

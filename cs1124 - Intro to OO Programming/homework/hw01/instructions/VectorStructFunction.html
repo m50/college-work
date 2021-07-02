@@ -1,0 +1,157 @@
+<html><!-- #BeginTemplate "/Templates/Cs1124.dwt" --><!-- DW6 -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>CS 1124 Homework</title><!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<h1 align="center">CS 1124 &#151; Object Oriented Programming</h1>
+<!-- #BeginEditable "Body" --> 
+<h2><b>Homework 1</b></h2>
+<h3>Focus</h3>
+<ul>
+  <li>Functions</li>
+  <li>Structs</li>
+  <li>Vectors</li>
+  <li>I/O</li>
+</ul>
+<h3>Problem: </h3>
+<p>
+  We will model a game of medieval times. Our world is filled with
+  warriors. Naturally what warriors like to do is fight. To the
+  death. So we happily let them.</p>
+<p>Each warrior starts out with a name and a certain amount of
+strength. Each time he fights, he loses some strength. (He gets to
+keep his name.) If his opponent is stronger than he is, then he
+loses <em>all</em> of his strength, in which case he is dead, or at
+the very least pretty useless as a fighter. Otherwise he loses as much
+strength as his opponent had. Of course, if he and his opponent had
+the same strength then they are both losers.</p>
+<p>Even losers are allowed to pick a fight. It doesn't require having
+any strength in order to do battle with someone else. Not that you
+stand much of a chance of winning anything, but perhaps it's worth
+getting beaten (again) just to have those 15 seconds of fame.</p>
+<p>Your program will read in a file of commands. There are three types
+of commands:</p>
+<ul>
+  <li><code><u>Warrior</u></code> creates a new warrior with the
+  specified name and strength. </li>
+  <li><code><u>Battle</u></code> causes a battle to occur between two
+  warriors. </li>
+  <li><code><u>Status</u></code> lists all warriors, alive or dead,
+  and their strengths. </li>
+</ul>
+<p>A sample input file looks like:</p>
+<blockquote>
+  <p><code>Warrior	Jim	42<br>
+    Warrior	Lancelot 15<br>
+    Warrior Arthur 15<br>
+    Warrior Torvalds 20<br>
+    Warrior Gates 8<br>
+    Status<br>
+    Battle Arthur Lancelot<br>
+    Battle Jim Lancelot<br>
+    Battle Torvalds Gates<br>
+    Battle Gates Lancelot<br>
+    Status</code></p>
+</blockquote>
+<p>
+  The name of the input file will be &quot;warriors.txt&quot;. Note
+  that the commands do not have to appear in that order. The only
+  requirement is that a Battle command cannot appear until the
+  specified warriors have been seen.</p>
+<p>
+  The Status command displays how many warriors there, then displays
+  each one with his strength. The Warrior command does not display
+  anything.  The Battle command displays one line to says who is
+  fighting whom and a second line to report the results, as shown
+  below.</p>
+<p>
+  The output (which would display on the screen) for this file should
+  look like:</p>
+<blockquote>
+  <p><code>There are: 5 warriors<br>
+    Warrior: Jim, strength: 42<br>
+    Warrior: Lancelot, strength: 15<br>
+    Warrior: Arthur, strength: 15<br>
+    Warrior: Torvalds, strength: 20<br>
+    Warrior: Gates, strength: 8<br>
+    Arthur battles Lancelot<br>
+    Mutual Annihilation: Arthur and Lancelot die at each other's hands<br>
+    Jim battles Lancelot<br>
+    He's dead Jim<br>
+    Torvalds battles Gates<br>
+    Torvalds defeats Gates<br>
+    Gates battles Lancelot<br>
+    Oh, NO!  They're both dead!  Yuck!<br>
+    There are: 5 warriors<br>
+    Warrior: Jim, strength: 42<br>
+    Warrior: Lancelot, strength: 0<br>
+    Warrior: Arthur, strength: 0<br>
+    Warrior: Torvalds, strength: 12<br>
+    Warrior: Gates, strength: 0</code></p>
+</blockquote>
+<h3>Programming guidelines </h3>
+<ul>
+  <li>
+    For all assignments, please use the aspects of the language that
+    we are focusing on in the assignment.  For example, in this
+    assignment, one of the topics is the use of struct.  That means we
+    do <em>not</em> want you to define classes or methods, or to use
+    data hiding &emdash; that'll all be in the next assignment.
+    (Obviously, you shouldn't worry if you don't know what I was just
+    talking about there.)  Why the restrictions?  The purpose of each
+    assignment is to have you excercise specific technical skills.  If
+    you want to wow us with the cool stuff you have figured out that
+    goes beyond the current syllabus, great!  Come by the office and I
+    will be happy to look at and discuss your work.</li>
+  <li>
+    Make <em>good use</em> of functions. In this program, for example,
+    when you determine that you are looking at a Warrior command then
+    you should call a function to handle that command. Similarly with
+    the other commands. </li>
+  <li>
+    Begin your file with a comment identifying who you are and what
+    this program is for. </li>
+  <li>
+    If there are any <em>known</em> problems with your program include
+    a comment explaining them. You <em>have</em> carefully tested your
+    program, right?  </li>
+  <li>
+    The program should have a "reasonable" amount of <em>useful</em>
+    comments.</li>
+  <li>
+    The code must be well formatted. <em>Never</em> turn in code with
+    bad indentation.</li>
+  <li>
+    All structs, functions and variables should have <em>good</em>
+    names.
+    <ul>
+      <li>Function names should clearly identify what the function does.</li>
+      <li>A variable name that is a single letter, such
+      as <code>i</code>, should only be used within the scope of a
+      loop as a loop index.  Ok, yes, x and y might make excellent
+      names for referring to the coordinate of a point in 2D
+      space. </li>
+      <li><code>temp</code> is almost never a good name. </li>
+    </ul>
+  </li>
+  <li>
+    Follow the convention that structs begin with an uppercase letter,
+    constants are all uppercase and functions and variables begin with
+    a lowercase letter.</li>
+</ul>
+<h3>Turn in</h3>
+<p>Hand in a single cpp file, hw01.cpp, containing your program.</p>
+<h3>Questions?</h3>
+<p>Raise them on the Discusion Board on My Poly.</p>
+<!-- #EndEditable --> 
+<p><a href="http://cis.poly.edu/cs1124">Home</a></p>
+<hr>
+<p><i>Maintained by <a href="http://cis.poly.edu/jsterling">John Sterling</a> 
+  (<a href="mailto:jsterling@poly.edu">jsterling@poly.edu</a>). </i><i>Last updated 
+  <!-- #BeginDate format:Am1 -->September 10, 2012<!-- #EndDate --> </i></p>
+<p>&nbsp; </p>
+</body>
+<!-- #EndTemplate --></html>

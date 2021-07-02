@@ -1,0 +1,2 @@
+hw06: hw06.cpp Warrior.cpp Noble.cpp
+	g++ hw06.cpp Warrior.cpp Noble.cpp -std=gnu++0x -o program
